@@ -13,8 +13,9 @@ Data & Methodology:
 | Predictive Modeling         | Random Forest Classifier, class weighting, hyperparameter tuning (RandomizedSearchCV) |
 | Evaluation & Insights       | Feature importance, confusion matrix, ROC-AUC, F1-score                               |
 
-
-Technical Stack:   
+<img width="356" height="482" alt="image" src="https://github.com/user-attachments/assets/46ef7f9c-170c-4f97-ba62-582ee48fc526" />  
+  
+**Technical Stack**  
 Languages: Python  
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, joblib  
 Tools: Jupyter Notebook  
